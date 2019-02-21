@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default ="compile">
 <property name="src.java.dir" location="C:\Program Files\Java\jdk1.8.0_201"/>
-<property name="src.test.dir" location="C:\Users\zahra\eclipse-workspace\shoppingCart\src\shoppingCart"/>
+<property name="src.test.dir" location="C:\Users\zahra\git\cart\shoppingCart\src\shoppingCart"/>
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
 <property name="result.testclasses.dir" location="${result.dir}/testclasses"/>
